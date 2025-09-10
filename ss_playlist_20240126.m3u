@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Generale
+https://tivustream.website/urls/listm3u
+#EXTINF:0 type="stream" channelId="-1", Canali Estero 
+https://tivustream.website/urls/tivustreamestero
+#EXTINF:0 type="stream" channelId="-1", Canali News ed istituzionali
+https://tivustream.website/urls/tivustreamnews
+#EXTINF:0 type="stream" channelId="-1", Canali musicali e Web Radio
+https://tivustream.website/urls/tivustreammusic
+#EXTINF:0 type="stream" channelId="-1", Samsung Tv
+https://tivustream.website/urls/tivustreamsam
+#EXTINF:0 type="stream" channelId="-1", Pluto Tv
+https://tivustream.website/urls/tivustreamplu
